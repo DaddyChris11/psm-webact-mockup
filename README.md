@@ -5,8 +5,9 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>店中的我｜產品 Mockup</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>便利商店中的我｜產品 Mockup</title>
 <style>
 :root{
   --navy:#0c2446;
