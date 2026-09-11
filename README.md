@@ -1,10 +1,11 @@
 [index.html](https://github.com/user-attachments/files/32084423/MockUp.html)
 # 便利商店中的我
 
+<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0", maximum-scale=1.0/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0", maximum-scale=1.2/>
 <title>店中的我｜產品 Mockup</title>
 <style>
 :root{
@@ -68,7 +69,7 @@ button{font:inherit}
 .hero-left{display:flex;flex-direction:column;justify-content:center;padding:24px}
 .logo{font-size:15px;color:#1d6b78;font-weight:900;letter-spacing:.08em}
 .hero h1{font-size:48px;line-height:1.08;margin:14px 0;color:var(--navy);letter-spacing:-.03em}
-.hero p{font-size:18px;line-height:1.8;color:#596878;max-width:540px}
+.hero p{font-size:18px;line-height:1.8;color:#596878;max-width:800px}
 .cta{display:inline-flex;align-items:center;gap:10px;background:var(--navy);color:#fff;border:0;border-radius:14px;padding:15px 22px;font-weight:900;cursor:pointer;width:max-content;box-shadow:0 12px 26px rgba(12,36,70,.2)}
 .cta.secondary{background:#fff;color:var(--navy);border:1px solid #c9d5e1;box-shadow:none}
 .card-stack{display:flex;align-items:center;justify-content:center;position:relative}
