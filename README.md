@@ -5,7 +5,7 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0", maximum-scale=1.2/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>店中的我｜產品 Mockup</title>
 <style>
 :root{
