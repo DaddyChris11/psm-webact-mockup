@@ -1,7 +1,6 @@
-[index.html](https://github.com/user-attachments/files/32084423/MockUp.html)
-# 便利商店中的我
-
 <!DOCTYPE html>
+
+# 便利商店中的我
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
